@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "body": "ngl, this looks like a lot 😬",
+      "body": "yeah,sure. It's gonna be another big thing in tech 😬",
       "username": "Duane",
       "created_at": "2021-01-07T09:20:10"
     },
@@ -29,6 +29,16 @@
       "body": "You got this! 💪",
       "username": "Liza",
       "created_at": "2021-01-07T09:21:11"
+    },
+    {
+      "username": "Duane",
+      "body": "let's start",
+      "id": 6
+    },
+    {
+      "username": "Duane",
+      "body": "Which part will we start with?",
+      "id": 7
     }
   ]
 }
